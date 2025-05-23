@@ -46,7 +46,7 @@ To analyze and compare the product assortments of **Kosatec** with 22 leading on
 
 ## 📂 File Structure
 
-- `Kosatec Final.ipynb`: Main analysis notebook.
+- `Data Analysis Codes.ipynb`: Main analysis notebook.
 - `Strategic Analysis 23 Retailers.docx`: Executive summary report with charts and insights.
 - `data/`: Folder for input CSV files (excluded here for privacy).
 
@@ -68,4 +68,4 @@ To analyze and compare the product assortments of **Kosatec** with 22 leading on
 git clone https://github.com/your-username/Retail-Transactions-Data-Analysis.git
 
 # Open Jupyter Notebook
-jupyter notebook "Kosatec Final.ipynb"
+jupyter notebook "Data Analysis Codes.ipynb"
